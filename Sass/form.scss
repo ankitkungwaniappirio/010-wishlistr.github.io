@@ -1,0 +1,18 @@
+.form-inline .form-control {
+    width:400px;
+    border-radius: 0;
+}
+.partition {
+    height: 50px;
+}
+@media only screen and (max-width: 500px) {
+    .form-inline .form-control {
+    width:auto;
+    border-radius: 0;
+}
+}
+@media only screen and (max-width: 767px) {
+    .para {
+        display: -webkit-inline-box;
+    }
+}

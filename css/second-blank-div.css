@@ -1,0 +1,12 @@
+.second-blank-div {
+  background: -webkit-linear-gradient(#D4E98C, #CAE770);
+  /* For Safari 5.1 to 6.0 */
+  border-bottom: 1px solid #a4c443;
+  border-top: 4px solid #a4c443; }
+
+.link-text {
+  margin-bottom: 10px; }
+
+.h3-heading {
+  color: white;
+  margin-bottom: 20px; }

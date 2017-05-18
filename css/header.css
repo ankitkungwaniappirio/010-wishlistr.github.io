@@ -1,0 +1,32 @@
+#grad {
+  background: -webkit-linear-gradient(#5B6973, #29343D); }
+
+.logo {
+  margin-top: 15px;
+  margin-bottom: 40px;
+  width: 50%; }
+
+h3-heading {
+  color: white;
+  margin-top: 15px; }
+
+ul {
+  margin-top: 30px; }
+
+.header-link {
+  color: white;
+  font-size: 20px; }
+  .header-link:hover {
+    color: white; }
+  .header-link:active {
+    color: #606C78; }
+
+.sub-heading {
+  position: absolute;
+  left: 220px;
+  color: white;
+  top: 45px; }
+
+.column-color {
+  margin-top: 50px;
+  border: 1px solid black; }
